@@ -1,0 +1,143 @@
+Config file is loaded
+There are total 2 supported mouse buttons
+Allegro5 initialized
+Game begin
+resized image: allegro logo.png
+resized image: headphone logo.png
+Save file is loaded
+resized image: purple background.png
+resized image: settings.png
+resized image: settings2.png
+resized image: gray background.png
+resized image: plane.png
+resized image: enemy01.png
+resized image: enemy02.png
+resized image: enemy03.png
+resized image: enemy03_a.png
+resized image: image12.png
+resized image: red bullet.png
+resized image: green bullet.png
+resized image: blue bullet.png
+resized image: red s bullet.png
+resized image: green s bullet.png
+resized image: blue s bullet.png
+resized image: white bullet.png
+resized image: red rectangle.png
+resized image: blue rectangle.png
+resized image: green rectangle.png
+resized image: arrow_key.png
+resized image: z_key.png
+resized image: z_key_p.png
+resized image: x_key.png
+resized image: x_key_p.png
+resized image: c_key.png
+resized image: c_key_p.png
+Change scene from 0 to 7
+Game initialized
+Game start event loop
+Key with keycode 0 up
+Key with keycode 0 up
+Key with keycode 0 up
+301 frame(s) dropped
+Key with keycode 67 down
+Change scene from 7 to 8
+Key with keycode 67 up
+15 frame(s) dropped
+Key with keycode 67 down
+Change scene from 8 to 1
+Key with keycode 67 up
+16 frame(s) dropped
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 67 down
+Change scene from 1 to 4
+stop audio (MENU bgm)
+Key with keycode 67 up
+20 frame(s) dropped
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 84 down
+1 frame(s) dropped
+Key with keycode 84 up
+Key with keycode 0 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 59 down
+Change scene from 4 to 1
+Key with keycode 59 up
+15 frame(s) dropped
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 67 down
+Change scene from 1 to 4
+stop audio (MENU bgm)
+Key with keycode 67 up
+20 frame(s) dropped
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 84 down
+Key with keycode 84 up
+Key with keycode 84 down
+3 frame(s) dropped
+Key with keycode 84 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+3 frame(s) dropped
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+1 frame(s) dropped
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+3 frame(s) dropped
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 59 down
+Change scene from 4 to 1
+Key with keycode 59 up
+15 frame(s) dropped
+Key with keycode 85 down
+Key with keycode 85 up
+Key with keycode 67 down
+Game end
